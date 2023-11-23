@@ -1,0 +1,16 @@
+#EXTINF:-1 tvg-id="ZhejiangEconomicChannel.cn" tvg-logo="https://i.imgur.com/pq9Aeeb.png" group-title="Business",浙江经济生活 (1080p) [Not 24/7]
+https://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+#EXTINF:-1 tvg-id="ZhejiangChildrensChannel.cn" tvg-logo="https://i.imgur.com/MbJUmZS.png" group-title="Kids",浙江少儿 (1080p)
+https://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+#EXTINF:-1 tvg-id="ZhejiangDigitalTimesChannel.cn" tvg-logo="https://i.imgur.com/zGw9tXK.png" group-title="Undefined",浙江数码时代 (1080p) [Not 24/7]
+https://hw-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+#EXTINF:-1 tvg-id="ZhejiangMinshengLeisure.cn" tvg-logo="https://i.imgur.com/RVGrS4U.png" group-title="Undefined",浙江民生休闲 (1080p) [Not 24/7]
+https://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+#EXTINF:-1 tvg-id="绍兴新闻综合" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="绍兴电视",绍兴新闻综合
+http://live.shaoxing.com.cn/video/s10001-sxhb/index.m3u8
+#EXTINF:-1 tvg-id="HainanSatelliteTV.cn" tvg-logo="https://i.imgur.com/j6kY8nh.png" group-title="Undefined",海南卫视 (720p) [Not 24/7]
+http://livelyws.chinamcache.com/lyws/zb01.m3u8?auth_key=1593241343-0-0-90b80e74457c94b2015f9428a1cb9b0e
+#EXTINF:-1 tvg-id="YanbianSatelliteTV.cn" tvg-logo="https://i.imgur.com/UKKsnhD.png" group-title="Undefined",延边卫视 (720p)
+http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
+#EXTINF:-1 tvg-id="DaAi2.tw" tvg-logo="https://i.imgur.com/KdJi9af.png" group-title="General",DaAi2 (大愛2) (720p)
+https://pulltv2.wanfudaluye.com/live/tv2.m3u8
